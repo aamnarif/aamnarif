@@ -1,0 +1,25 @@
+<html><head><title>DPS</title></head>
+
+
+<img src="imgres.jpg" width="170" height="160" align="left"/><center><br>
+<hr color=#737CA1 size=7 width=70%>
+<font face="Times New Roman" size="6.5" > <b>DAWOOD PUBLIC SCHOOL <br></font>
+<font face="Times New Roman" size="5" >Nursery - A Levels</b><br></font><br>
+<i> <font face="Times New Roman" size="4" >"Enlighten my soul, Enlighten my being" </i></font>
+<hr color=#737CA1 size=7 width=70%>
+
+<center><table> <table border=1 bgcolor="#D4EBFF" cellpadding=20 >  <td>
+<a href="school.html"><b>
+<center>Home</a></h1>
+
+ <td><a href="s about us.html"><b>
+<center>About Us</a>
+
+<td><a href="s events.html"><b>
+<center>Events & ExtraCuriculars</a>
+
+<td><a href="s rules and regulations.html"><b>
+<center>Rules and Regulations</a>
+
+<td><a href="s contact us.html"><b>
+<center>Contact us</a></h1>
